@@ -1,0 +1,5 @@
+Name :   GithubProfileViewer
+URl :  localhost:8080
+Decription :  This is App is a part of 10 React Projects and it feature is let you see
+someone profile and get details about them.
+Authorizatio URL : https://localhost:8080/_oauth/github
